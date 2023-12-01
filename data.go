@@ -1,4 +1,4 @@
-package data
+package city
 
 var cityData = `{"citys":
   [
